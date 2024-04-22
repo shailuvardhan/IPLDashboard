@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.latest-match-container {
+  width: 90%;
+  height: fit-content;
+  display: flex;
+  justify-content: space-around;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: #1e293b;
+  border-radius: 10px;
+  color: #ffffff;
+}
+
+.img-container-1 {
+  height: 100px;
+  width: 100px;
+  display: flex;
+  align-self: center;
+}
+.latest-match-img {
+  width: 90%;
+  height: 90%;
+}
+.right-container {
+  text-align: right;
+}

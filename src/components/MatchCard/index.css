@@ -1,0 +1,37 @@
+/* Write your CSS here */
+.list {
+  width: 300px;
+  list-style-type: none;
+  background-color: #1e293b;
+  margin: 10px;
+  text-align: center;
+  color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  border-radius: 10px;
+}
+.img-container {
+  width: 80px;
+  height: 80px;
+}
+.img {
+  width: 90%;
+  height: 90%;
+}
+.h1-card-text {
+  font-size: 20px;
+  word-wrap: wrap;
+}
+.p-card-text {
+  font-size: 16px;
+  word-wrap: wrap;
+}
+.green {
+  color: #18ed66;
+}
+.red {
+  color: #e31a1a;
+}
